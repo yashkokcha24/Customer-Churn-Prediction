@@ -47,9 +47,13 @@ The goal of this project is to:
 ✔ **Hyperparameter Tuning** (GridSearchCV)  
 
 ### 📌 Performance Metrics:
-- **Accuracy**:           ✅ Evaluated overall correctness  
-- **Precision & Recall**: ✅ Balanced trade-off to reduce false positives  
-- **F1-Score**:           ✅ Used for imbalanced classification  
+
+- **Accuracy**:           ✅ Evaluated overall correctness
+
+- **Precision & Recall**: ✅ Balanced trade-off to reduce false positives
+  
+- **F1-Score**:           ✅ Used for imbalanced classification
+  
 - **ROC-AUC Curve**:      ✅ Measured model discrimination ability  
 
 ---
@@ -94,8 +98,6 @@ jupyter notebook
 
 ## 📌 **Connect With Me**
 If you found this project helpful, feel free to ⭐ the repo and connect with me on:  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
 
 🚀 Let’s build something amazing with Machine Learning!  
 
