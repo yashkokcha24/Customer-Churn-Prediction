@@ -1,6 +1,6 @@
 # 🚀 Customer Churn Prediction – Machine Learning Project
 
-![Customer Churn](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hJAG75aAULAZ5gDsRsFYTQ.png)
+![Customer Churn](https://img.freepik.com/free-vector/customer-retention-concept-illustration_114360-7465.jpg)
 
 ## 📌 Project Overview
 Customer churn is a major challenge in the banking industry. Retaining existing customers is more cost-effective than acquiring new ones. This project aims to develop a **Machine Learning model** that predicts whether a customer will leave the bank, allowing businesses to take **proactive retention measures**.
@@ -94,3 +94,10 @@ If you found this project helpful, feel free to ⭐ the repo and connect with me
 🔗 **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
 
 🚀 Let’s build something amazing with Machine Learning!  
+
+---
+
+## 👨‍💻 **Author**
+**YASH KOKCHA**   
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yashkokcha)  
+
