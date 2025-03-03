@@ -9,7 +9,9 @@ Customer churn is a major challenge in the banking industry. Retaining existing 
 The goal of this project is to:
 
 ✅ Identify **customers who are likely to churn** based on transaction history and demographics.
+
 ✅ Analyze key **factors influencing churn** (e.g., credit score, tenure, and balance).
+
 ✅ Provide actionable insights for **customer retention strategies**.
 
 ---
@@ -45,10 +47,10 @@ The goal of this project is to:
 ✔ **Hyperparameter Tuning** (GridSearchCV)  
 
 ### 📌 Performance Metrics:
-- **Accuracy**: ✅ Evaluated overall correctness  
+- **Accuracy**:           ✅ Evaluated overall correctness  
 - **Precision & Recall**: ✅ Balanced trade-off to reduce false positives  
-- **F1-Score**: ✅ Used for imbalanced classification  
-- **ROC-AUC Curve**: ✅ Measured model discrimination ability  
+- **F1-Score**:           ✅ Used for imbalanced classification  
+- **ROC-AUC Curve**:      ✅ Measured model discrimination ability  
 
 ---
 
@@ -101,5 +103,5 @@ If you found this project helpful, feel free to ⭐ the repo and connect with me
 
 ## 👨‍💻 **Author**
 **YASH KOKCHA**   
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yashkokcha)  
+🔗 LinkedIn: (https://www.linkedin.com/in/yashkokcha)  
 
