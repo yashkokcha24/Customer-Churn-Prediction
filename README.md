@@ -7,6 +7,7 @@ Customer churn is a major challenge in the banking industry. Retaining existing 
 
 ### 🎯 **Business Problem Statement**
 The goal of this project is to:
+
 ✅ Identify **customers who are likely to churn** based on transaction history and demographics.
 ✅ Analyze key **factors influencing churn** (e.g., credit score, tenure, and balance).
 ✅ Provide actionable insights for **customer retention strategies**.
@@ -14,7 +15,7 @@ The goal of this project is to:
 ---
 
 ## 🛠️ Tech Stack
-- **Programming Language:** Python 🐍  
+- **Programming Language:** Python   
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Machine Learning Models:** Logistic Regression, Random Forest, Gradient Boosting  
 - **Model Deployment:** Flask API (optional)  
@@ -53,6 +54,7 @@ The goal of this project is to:
 
 ## 🔥 **Key Insights & Business Value**
 💡 **Top 3 Features Influencing Churn**:
+
 1️⃣ **Credit Score** – Customers with lower scores churn more.  
 2️⃣ **Tenure** – Long-term customers are more loyal.  
 3️⃣ **Balance & Transactions** – Sudden fluctuations indicate risk.  
